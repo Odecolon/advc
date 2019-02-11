@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="advc.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="1196"/>
+        <CursorPos X="18" Y="1721"/>
+        <FoldState Value=" T7f9C3 T3jf0R2 pkFl706C picjX0F4]I2kT0L4[I5Q0K]aj3jT0H[94A]aT[R4XjV054]I9jO0F3]sKl0073]I5jM0X1]aZ]sD1]I7]ani"/>
+        <UsageCount Value="106"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\..\01\advc.lpi"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="7"/>
+        <DefaultSyntaxHighlighter Value="XML"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="110" Column="59" TopLine="91"/>
+      </Position1>
+      <Position2>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="109" Column="29" TopLine="88"/>
+      </Position2>
+      <Position3>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="106" Column="50" TopLine="88"/>
+      </Position3>
+      <Position4>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="3" Column="14"/>
+      </Position4>
+      <Position5>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="110" Column="38" TopLine="97"/>
+      </Position5>
+      <Position6>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="3" Column="5"/>
+      </Position6>
+      <Position7>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="106" Column="36" TopLine="88"/>
+      </Position7>
+      <Position8>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="233" Column="72" TopLine="166"/>
+      </Position8>
+      <Position9>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="29" Column="20"/>
+      </Position9>
+      <Position10>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="1353" Column="13" TopLine="1166"/>
+      </Position10>
+      <Position11>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="1143" Column="3" TopLine="226"/>
+      </Position11>
+      <Position12>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="1159" Column="12" TopLine="1067"/>
+      </Position12>
+      <Position13>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="240" Column="73" TopLine="226"/>
+      </Position13>
+      <Position14>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="1253" Column="6" TopLine="1233"/>
+      </Position14>
+      <Position15>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="1228" Column="88" TopLine="1102"/>
+      </Position15>
+      <Position16>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="1225" Column="30" TopLine="1208"/>
+      </Position16>
+      <Position17>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="1504" Column="16" TopLine="1488"/>
+      </Position17>
+      <Position18>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="938" TopLine="910"/>
+      </Position18>
+      <Position19>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="12" Column="28"/>
+      </Position19>
+      <Position20>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="45" Column="20" TopLine="27"/>
+      </Position20>
+      <Position21>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="876" Column="79" TopLine="860"/>
+      </Position21>
+      <Position22>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="1477" Column="20" TopLine="1442"/>
+      </Position22>
+      <Position23>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="1441" Column="52" TopLine="1347"/>
+      </Position23>
+      <Position24>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="1473" Column="32" TopLine="1449"/>
+      </Position24>
+      <Position25>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="1375" Column="46" TopLine="1353"/>
+      </Position25>
+      <Position26>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="1267" Column="74" TopLine="1246"/>
+      </Position26>
+      <Position27>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="1189" Column="21" TopLine="985"/>
+      </Position27>
+      <Position28>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="1326" Column="29" TopLine="1306"/>
+      </Position28>
+      <Position29>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="1531" Column="32" TopLine="1469"/>
+      </Position29>
+      <Position30>
+        <Filename Value="advc.lpr"/>
+        <Caret Line="1502" Column="3" TopLine="1474"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
